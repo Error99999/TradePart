@@ -1,0 +1,16 @@
+{
+    "name": "EIP-1155 based NFT",
+    "description": "Public Mintable EIP-1155 based NFT",
+    "external_url": "https://michaelliao.github.io/simple-nft/",
+    "image": "https://ipfs.infura.io/ipfs/QmaCR37BEGv6aZzzfJ1ShT8tu52UWosVgN9ookYY94FVVt?filename=file.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "EIP-1155"
+        },
+        {
+            "trait_type": "Author",
+            "value": "Crypto Michael"
+        }
+    ]
+}
