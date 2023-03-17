@@ -1,2 +1,2 @@
 # simple-nft
-A simple EIP-1155 based NFT tool.
+A simple EIP-721 based NFT tool.
